@@ -10,62 +10,58 @@
 > **Módulo**: PAR
 >
 > **Fecha:** 07/01/2025
-
-**PARP301:**
-
-Proyecto de Cableado Estructurado en una oficina de dos plantas
+>
+> **PARP301:** Proyecto de Cableado Estructurado en una oficina de dos plantas
 
 # Contenido {#contenido .TOC-Heading}
 
-[Introducción](#introducción)
+- [Introducción](#introducción)
 
-[Planos originales](#planos-originales)
+- [Planos originales](#planos-originales)
 
-[Planta 1](#planta-1)
+  - [Planta 1](#planta-1)
 
-[Planta 2](#planta-2)
+  - [Planta 2](#planta-2)
 
-[Situación del edificio](#situación-del-edificio)
+- [Situación del edificio](#situación-del-edificio)
 
-[]()
+- [Especificaciones del cliente](#especificaciones-del-cliente)
 
-[Especificaciones del cliente](#especificaciones-del-cliente)
+- [Objetivos del proyecto](#objetivos-del-proyecto)
+ 
+- [Soluciones Propuestas](#soluciones-propuestas)
+ 
+- [Elección y compra de materiales](#elección-y-compra-de-materiales)
+ 
+  - [Subsistema de Cableado Horizontal](#subsistema-de-cableado-horizontal)
+  
+  - [Subsistema de Cableado Vertical](#subsistema-de-cableado-vertical)
+  
+  - [Racks de la Planta 1 y 2](#racks-de-la-planta-1-y-2)
+  
+  - [Elementos del Rack de la Planta 1 y 2](#elementos-del-rack-de-la-planta-1-y-2)
+ 
+- [Planos posteriores](#planos-posteriores)
+ 
+  - [Planta 1](#planta-1-1)
+  
+  - [Planta 2](#planta-2-1)
+ 
+- [Topología De La Red](#topología-de-la-red)
+ 
+- [Subsistemas De Red](#subsistemas-de-red)
 
-[Objetivos del proyecto](#objetivos-del-proyecto)
+- [Cronograma / Diagrama de Gantt](#cronograma-diagrama-de-gantt)
+ 
+- [Inventario Cables](#inventario-cables)
 
-[Soluciones Propuestas](#soluciones-propuestas)
-
-[Elección y compra de materiales](#elección-y-compra-de-materiales)
-
-[Subsistema de Cableado Horizontal](#subsistema-de-cableado-horizontal)
-
-[Subsistema de Cableado Vertical](#subsistema-de-cableado-vertical)
-
-[Racks de la Planta 1 y 2](#racks-de-la-planta-1-y-2)
-
-[Elementos del Rack de la Planta 1 y 2](#elementos-del-rack-de-la-planta-1-y-2)
-
-[Planos posteriores](#planos-posteriores)
-
-[Planta 1](#planta-1-1)
-
-[Planta 2](#planta-2-1)
-
-[Topología De La Red](#topología-de-la-red)
-
-[Subsistemas De Red](#subsistemas-de-red)
-
-[Cronograma / Diagrama de Gantt](#cronograma-diagrama-de-gantt)
-
-[Inventario Cables](#inventario-cables)
-
-[Etiquetado de los cables](#etiquetado-de-los-cables)
-
-[Inventario de tomas de datos](#inventario-de-rosetas-y-puntos-de-red)
-
-[Presupuesto](#presupuesto)
-
-[Contrato](#contrato)
+- [Etiquetado de los cables](#etiquetado-de-los-cables)
+ 
+- [Inventario de tomas de datos](#inventario-de-rosetas-y-puntos-de-red)
+ 
+- [Presupuesto](#presupuesto)
+ 
+- [Contrato](#contrato)
 
 # Introducción
 
@@ -80,8 +76,7 @@ instalaciones a un edificio empresarial de varias plantas. Sin embargo,
 antes de migrar todo el mobiliario y sus trabajadores, es necesario
 cablear el edificio por lo que han solicitado nuestros servicios.
 
-![Ilustración](media/image2.jpeg){width="3.3328707349081363in"
-height="3.3328707349081363in"}
+<img src="Nueva carpeta/Abogados_España.jpg" alt="Texto alternativo" width="400">
 
 ## El Contratista
 
@@ -92,17 +87,13 @@ Suarez,* nuestra firma nace como una startup en 2025 con la misión de
 transformar el cableado pasivo en un activo estratégico para las
 empresas que no pueden permitirse fallos de conexión.
 
-[]{#_Toc218710169
-.anchor}![](media/image3.png){width="4.091666666666667in"
-height="2.233634076990376in"}
+<img src="Nueva carpeta/CE Solutions.png/" alt="Texto alternativo" width="" height="">
 
 # PLANOS ORIGINALES
 
 ## Planta 1
 
-![Diagrama, Dibujo de ingeniería El contenido generado por IA puede ser
-incorrecto.](media/image4.jpeg){width="6.268055555555556in"
-height="3.4583333333333335in"}
+<img src="Nueva carpeta/Planta 1.jpg" alt="Texto alternativo" width="" height="">
 
 **Características:**
 
@@ -118,7 +109,7 @@ height="3.4583333333333335in"}
 
   - Cuarto de Almacenamiento
 
-    - Sala de Telecomunicaciones (TD) /Sala de Equipamiento (ER)
+    - Sala de Telecomunicaciones (TD) / Sala de Equipamiento (ER)
 
       - Rack
 
@@ -140,9 +131,7 @@ height="3.4583333333333335in"}
 
 ## Planta 2
 
-![Diagrama, Dibujo de ingeniería El contenido generado por IA puede ser
-incorrecto.](media/image5.jpeg){width="5.45in"
-height="2.966666666666667in"}
+<img src="Nueva carpeta/Planta 2.jpg" width="" height="">
 
 **Características**:
 
@@ -186,19 +175,12 @@ height="2.966666666666667in"}
 
   - Ancho: 55 Pies = 16,7 Metros
 
-*\*
-
 # Situación del edificio
 
 El edificio empresarial en la Calle Orense, 40 fue construido a mediados
-de los años 80 y presenta una estructura de hormigón armado macizo y una
-distribución eléctrica que no fue diseñada para la densidad de los
-dispositivos digitales actuales. Al ser un edificio antiguo, no existen
-"patinillos" por lo que la comunicación entre plantas sube por un tubo
-rígido de acero (EMT) atravesando el hormigón. Además, las paredes son
-de ladrillo macizo lo que impide el paso de cables por el interior.
-Salvo en una sala de la 1era planta no hay suelo técnico por lo que las
-canalizaciones se tendrán que realizar por las paredes.
+de los años 80 y presenta una estructura de hormigón armado macizo y una distribución eléctrica que no fue diseñada para la densidad de los dispositivos digitales actuales. Al ser un edificio antiguo, no existen "patinillos" por lo que la comunicación entre plantas sube por un tubo rígido de acero (EMT) atravesando el hormigón. Además, las paredes son de ladrillo macizo lo que impide el paso de cables por el interior.
+
+Salvo en una sala de la 1era planta no hay suelo técnico por lo que las canalizaciones se tendrán que realizar por las paredes.
 
 # Especificaciones del cliente
 
@@ -264,9 +246,7 @@ Twisted* *Pair* que significa que no tiene una protección global pero
 sus pares de hilos están envueltos individualmente en una capa de
 aluminio.
 
-![CABLE U/FTP CAT6 LSHZ DCA DRAKA AZUL C.305 \|
-Cablecel](media/image6.jpeg){width="3.635323709536308in"
-height="1.53125in"}
+<img src="Nueva carpeta/CABLE UFTP CAT6.jpg" width="" height="">
 
 **Características**:
 
@@ -304,7 +284,7 @@ En nuestro caso vamos a estar utilizando Rejiband al no haber falso
 suelo ni poder atravesar los muros y estará situado oculto bajo techo
 por motivos estéticos y de organización.
 
-![](media/image7.png){width="4.781944444444444in" height="2.025in"}
+<img src="Nueva carpeta/rejiband.png" width="" height="">
 
 **Canalizaciones**: Canaletas 6x9 mm de 2 mts
 
@@ -313,9 +293,7 @@ mediante canaletas pegadas a la pared. Como hemos estimado serán
 necesarios 380 mts de canaletas por lo que hemos comprado 190 unidades
 de 2 mts
 
-![Canaleta adhesiva TEHALIT blanca 6x9 mm de 2 metros -
-1](media/image8.jpeg){width="2.2333333333333334in"
-height="2.007173009623797in"}
+<img src="Nueva carpeta/canalizaciones.jpg" width="" height="">
 
 **Rosetas**: Las rosetas son puntos de conexión en las áreas de trabajo
 que permiten la conexión de dispositivos finales al sistema de cableado
@@ -330,23 +308,17 @@ Rosetas empleadas: de CAT6 FTP
 - Rosetas simples: Admiten servicio de voz y datos. Se han instalado en
   puestos de trabajo individuales.
 
-![Imagen de la pantalla de un celular El contenido generado por IA puede
-ser incorrecto.](media/image9.jpeg){width="1.5858420822397201in"
-height="1.6666666666666667in"}
+<img src="Nueva carpeta/rosetas simples.jpg" width="" height="">
 
 - Rosetas dobles: Se han utilizado en espacios donde hay varios
   empleados.
 
-![](media/image10.jpeg){width="1.7144531933508311in" height="1.575in"}
+<img src="Nueva carpeta/rosetas dobles.jpg" width="" height="">
 
 - Rosetas de 4 puertos: Se han utilizado en espacios compartidos donde
-  hay 2 o más empleados y en salas de apoyo que cuentan con dispositivos
-  (impresoras, escaners, fax, etc.)
+  hay 2 o más empleados y en salas de apoyo que cuentan con dispositivos (impresoras, escaners, fax, etc.)
 
-![Imagen que contiene conector, electrónica, edificio, frente El
-contenido generado por IA puede ser
-incorrecto.](media/image11.png){width="1.7083333333333333in"
-height="1.752965879265092in"}
+<img src="Nueva carpeta/rosetas de cuatro puertos.png" width="" height="">
 
 **Conectores**: Pack 100 Conectores RJ-45
 
@@ -355,9 +327,7 @@ latiguillos (patch cords) por lo que se han adquirido 3 unidades de
 conectores RJ-45 de categoría 6. Deben ser de tipo FTP para coincidir
 con el tipo de cableado que hemos empleado.
 
-![Imagen que contiene hombre El contenido generado por IA puede ser
-incorrecto.](media/image12.png){width="2.917694663167104in"
-height="3.25in"}
+<img src="Nueva carpeta/Pack conectores RJ-45.png" width="" height="">
 
 **Punto de Acceso Wifi** (APs): Ubiquiti U7 Lite
 
@@ -366,10 +336,7 @@ despacho como la sala de recepción o la sala de conferencias para
 garantizar una buena conexión a las redes inalámbricas de abogados e
 invitados. Se conectarán al switch PoE en la primera planta.
 
-![Ubiquiti U7 Lite Punto de Acceso WiFi 7 con 4 Flujos Espaciales y
-Enlace Ascendente de 2.5GbE
-PoE](media/image13.jpeg){width="2.6333333333333333in"
-height="2.7017311898512686in"}
+<img src="Nueva carpeta/Ubiquiti U7 Lite.jpg" width="" height="">
 
 **Cámara para exteriores IP**: Reolink P320
 
@@ -378,18 +345,15 @@ despacho las cuales tienen una resolución de 2880 x 1620 píxeles, visión
 nocturna,110° FOV, al igual que los APs, se conectarán mediante cable
 Ethernet al switch PoE de 24 puertos en la primera planta.
 
-![Reolink P320](media/image14.jpeg){width="4.266666666666667in"
-height="2.2519827209098864in"}
+<img src="Nueva carpeta/Reolink P320.jpg" width="" height="">
 
 **Etiquetas y Bridas**
 
 Los cables se etiquetarán con un nombre identificativo y las bridas nos
 ayudarán a organizar los cables sobre el Rejiband
 
-![Etiquetas para cables Panduit 17.8x33.8x8.4 mm \| Sunpro Redes y
-Sistemas](media/image15.jpeg){width="2.3in" height="2.3in"}![cubierta y
-el aislamiento del cable durante el
-tendido](media/image16.png){width="3.4in" height="2.2831157042869643in"}
+<img src="Nueva carpeta/Etiquetas.jpg" height="200px">
+<img src="Nueva carpeta/Bridas.png" height="200px">
 
 ## Subsistema de Cableado Vertical
 
@@ -411,20 +375,15 @@ Se ha optado por fibra óptica de 6 hilos (3 pares) de los cuales:
 - Emplearemos 2 pares de reserva en caso de futuras expansiones o
   reparaciones en caso de rotura.
 
-![Imagen que contiene Diagrama El contenido generado por IA puede ser
-incorrecto.](media/image17.jpeg){width="6.268055555555556in"
-height="1.5694444444444444in"}
+<img src="Nueva carpeta/Fibra Óptica.jpg" width="" height="">
 
 **Conectores:** LC Multimodo OM4 (Little Conector)
 
-![Conector LC multimodo,
-simple](media/image18.jpeg){width="2.464284776902887in"
-height="2.464284776902887in"}
+<img src="Nueva carpeta/LC Multimodo OM4.jpg" width="" height="">
 
 **Transceptor de Fibra:** SFP-10G-SR300m
 
-![](media/image19.png){width="2.415277777777778in"
-height="1.6145833333333333in"}
+<img src="Nueva carpeta/Transceptor de Fibra.png" width="250" height="">
 
 Es un módulo óptico enchufable que permite transmitir datos a 10
 Gigabits por segundo hasta 300 metros usando fibra multimodo (MMF),
@@ -435,55 +394,12 @@ equipos de red como switches y routers.
 
 Rack 1:
 
-Panel portacables
-
-Panel de Conexión de 48 Puertos (Compartido)
-
-Switch de 48 Puertos
-
-Ventilación
-
-Espacio de Reserva
-
-Router
-
-SAI
-
-Multiplicador de puertos
-
-Switch PoE de 16 Puertos
-
-![Ventilación](media/image20.png){width="2.615301837270341in"
-height="3.586699475065617in"}
+<img src="Nueva carpeta/Rack1.png" width="" height="">
 
 Rack 2:
 
-Ventilación
+<img src="Nueva carpeta/Rack2.png" width="" height="">
 
-Ventilación
-
-Switch de 48 Puertos
-
-Panel de Conexión de 48 Puertos
-
-Panel Portacables
-
-Switch de 48 Puertos
-
-Espacio de Reserva
-
-Multiplicador de Puertos
-
-Switch PoE de 16 puertos
-
-Panel Portacables
-
-SAI
-
-Panel de Conexión de 48 Puertos (Compartido)
-
-![](media/image21.png){width="2.537037401574803in"
-height="3.408569553805774in"}
 
 ## Elementos del Rack de la Planta 1 y 2
 
@@ -492,10 +408,8 @@ height="3.408569553805774in"}
 Los racks son estructuras diseñadas para montar y organizar equipos
 electrónicos en un sistema de cableado estructurado.
 
-![Bastidor de Pared Lanberg WF01-6618-10B 18U 60kg 19\" Acero Negro IP20
-Autoinstalable](media/image22.jpeg){width="2.9375in" height="2.9375in"}
+<img src="Nueva carpeta/Armario de 18U.jpg" width="" height="">
 
-**\**
 
 Los dispositivos de red que alberga el rack incluyen:
 
@@ -508,8 +422,8 @@ acceso, distribución o núcleo, dependiendo de su ubicación en la red.
 Los switches se montan típicamente en un rack para facilitar la gestión
 del cableado y el acceso para el mantenimiento.
 
-![](media/image23.png){width="5.563999343832021in"
-height="1.4269050743657044in"}
+<img src="Nueva carpeta/Switch TP-Link.png" width="" height="">
+
 
 **Routers**: Fortinet FG-60F-EU
 
@@ -517,8 +431,8 @@ Los routers se utilizan para enrutar el tráfico entre redes. En un
 entorno de cableado estructurado, los routers pueden montarse en racks
 para facilitar su acceso y mantenimiento.
 
-![](media/image24.png){width="3.922636701662292in"
-height="3.001304680664917in"}
+<img src="Nueva carpeta/Fortinet FG-60F-EU.png" width="" height="">
+
 
 **Patch Panels (Paneles de Conexión)**
 
@@ -527,9 +441,8 @@ los cables de red, son comúnmente montados en racks. Esto facilita la
 gestión del cableado y la conexión ordenada de cables desde las áreas de
 trabajo hacia los dispositivos de red.
 
-![Texto Descripción generada automáticamente con confianza
-media](media/image25.png){width="6.621094706911636in"
-height="2.652173009623797in"}
+<img src="Nueva carpeta/Patch Panels.png" width="" height="">
+
 
 **Equipos de Energía (PDU)**:
 
@@ -537,78 +450,21 @@ Los racks a menudo incluyen unidades de distribución de energía (PDU,
 por sus siglas en inglés) para gestionar y distribuir la energía
 eléctrica de manera eficiente a los dispositivos conectados en el rack.
 
-![Jual Indorack Power Distribution unit 6 Outlet With Ampere n Volt
-Meter - Jakarta Pusat - Power Solution Pws \|
-Tokopedia](media/image26.png){width="5.139535214348206in"
-height="3.7329407261592302in"}
+<img src="Nueva carpeta/Equipos de Energía.png" width="" height="">
+
 
 # Planos posteriores
 
 ## Planta 1
 
-![Diagrama El contenido generado por IA puede ser
-incorrecto.](media/image27.jpeg){width="8.489583333333334in"
-height="5.148458005249344in"}
+<img src="Nueva carpeta/Planta 1 Posterior.jpg" width="" height="">
+
 
 ## Planta 2
 
-![Diagrama El contenido generado por IA puede ser
-incorrecto.](media/image28.jpeg){width="9.973663604549431in"
-height="4.416666666666667in"}
+<img src="Nueva carpeta/Planta 2 Posterior.jpg" width="" height="">
 
-+-------------------------------------------------------------------------------------------------------------+
-| Elementos del plano                                                                                         |
-+:=====================================================================:+:===================================:+
-| ![](media/image29.png){width="0.5595231846019247in"                   | Número de Oficina o Sala de Apoyo   |
-| height="0.5024289151356081in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image30.png){width="1.3762325021872266in"                   | Fibra Óptica del Demarc             |
-| height="0.2111111111111111in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image31.png){width="1.4305555555555556in"                   | Cable RJ-45 (HC)                    |
-| height="0.16972659667541556in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image32.png){width="1.3055555555555556in"                   | Canaletas                           |
-| height="0.12462160979877515in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image33.png){width="1.3263888888888888in"                   | Rejiband oculto bajo falso techo    |
-| height="0.27360454943132106in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image34.png){width="0.2820516185476815in"                   | Roseta Simple / Doble               |
-| height="0.26286964129483814in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image35.png){width="0.7564107611548556in"                   | Roseta de 4 Puertos                 |
-| height="0.2579472878390201in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image36.png){width="0.24880577427821524in"                  | Toma de Red Empotrada en Pared      |
-| height="0.9414687226596675in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![Icono Descripción generada                                          | Punto de Acceso (AP)                |
-| automáticamente](media/image37.png){width="0.3472222222222222in"      |                                     |
-| height="0.4599573490813648in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image38.png){width="0.4382863079615048in"                   | Cámaras                             |
-| height="0.5512817147856518in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image39.png){width="0.4871795713035871in"                   | Sala de Recepción                   |
-| height="0.45027230971128607in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image40.png){width="0.4615387139107612in"                   | Sala de Descanso                    |
-| height="0.44980424321959755in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image41.png){width="0.5320505249343832in"                   | Sala de Conferencia / Sala de       |
-| height="0.4877132545931758in"}![](media/image42.png){width="0.5375in" | Copiado                             |
-| height="0.5076377952755905in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image43.png){width="0.5096237970253719in"                   | Librería                            |
-| height="0.49677602799650045in"}                                       |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image44.png){width="0.5206353893263342in"                   | Área Compartida                     |
-| height="0.4994717847769029in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
-| ![](media/image45.png){width="0.49771872265966755in"                  | Sala de Reuniones                   |
-| height="0.4852755905511811in"}                                        |                                     |
-+-----------------------------------------------------------------------+-------------------------------------+
+
 
 # Topología De La Red
 
@@ -624,9 +480,7 @@ Los racks de cada planta se interconectan entre sí mediante enlaces de
 fibra óptica. Esta topología facilita el mantenimiento, la localización
 de averías y la ampliación futura de la red.
 
-![Red en estrella - Wikipedia, la enciclopedia
-libre](media/image46.png){width="2.1333333333333333in"
-height="2.0833333333333335in"}
+<img src="Nueva carpeta/Topología de Red.png" width="" height="">
 
 # Subsistemas De Red
 
@@ -643,8 +497,6 @@ telefónica o proveedores de servicios de Internet.
 
 El lugar central donde se alojan los dispositivos de red, como hubs,
 switches, routers, entre otros dispositivos.
-
-**\**
 
 - **Subsistema Vertical (Backbone)**:
 
@@ -663,29 +515,22 @@ canaletas o subsuelos.
 Incluye las tomas de red y dispositivos finales en las áreas de trabajo,
 como escritorios y puestos de trabajo.
 
-![Una guía completa de cableado estructurado \| Experto en redes de 10
-Gigabit y soluciones de fibra óptica
--CRXCONEC](media/image47.jpeg){width="6.268055555555556in"
-height="3.7305555555555556in"}
+<img src="Nueva carpeta/Area de trabajo.jpg" width="" height="">
 
 # Cronograma / Diagrama de Gantt
 
-![Gráfico, Gráfico de rectángulos El contenido generado por IA puede ser
-incorrecto.](media/image48.png){width="6.268055555555556in"
-height="2.73125in"}
+<img src="Nueva carpeta/Cronograma Diagrama de Gantt.png" width="" height="">
 
 El proyecto dará a inicio el 2 de enero del 2026 y tendrá una duración
 de 21 laborales hasta el día 2 de febrero del 2026 y tendrá un plazo
 máximo de 30 días laborales, es decir hasta el 17 de febrero
 
-![Escala de tiempo El contenido generado por IA puede ser
-incorrecto.](media/image49.png){width="6.268055555555556in"
-height="2.09375in"}
+<img src="Nueva carpeta/Diagrama de Gantt.png" width="" height="">
 
-![Tabla El contenido generado por IA puede ser
-incorrecto.](media/image50.png){width="2.072108486439195in"
-height="2.638323490813648in"}Los días feriados ni los fines de semana
-contarán para la realización de las obras.
+
+Los días feriados ni los fines de semana contarán para la realización de las obras.
+
+<img src="Nueva carpeta/Dias feriados.png" width="" height="">
 
 Los días laborales se representan en azul.
 
@@ -693,63 +538,36 @@ Los días laborales se representan en azul.
 
 # Inventario Cables
 
-  --------------------------------
-      Total (mts)      692,980542
-  ------------------- ------------
-   número de cables        50
-         RJ-45        
-
-     Fibra Óptica      25,783784
-  --------------------------------
+|Total (mts)|692,980542|
+|-|-|
+|Número de cables RJ-45|	50|
+|Fibra óptica|25,783784|
 
 En la primera planta se han contabilizado 50 latiguillos (Patch Cords) y
 más de 600 metros de cable y 25 metros de fibra óptica.
 
-  -------------------------------
-      Total (mts)      2058,6358
-  ------------------- -----------
-   número de cables       69
-         RJ-45        
-
-  -------------------------------
+|Total (mts)|2058,6358|
+|-|-|
+|número de cables RJ-45|69|
 
 En la segunda planta se han contabilizado 64 cables RJ-45 y más de 2000
 metros de cable.
 
-  ----------------------------------------------------------------
-  **Ubicación**              **Longitud   **Cantidad   **Total
-                             (mts)**      (ud)**       (mts)**
-  -------------------------- ------------ ------------ -----------
-  **Rack (Switch a Patch     0,5          119          59,5
-  Panel)**                                             
-
-  **Puesto (Roseta a         3            119          357
-  PC/AP)**                                             
-
-  **TOTAL LATIGUILLOS**                   **238**      **416,5**
-  ----------------------------------------------------------------
+|Ubicación|Longitud (mts)|Cantidad (ud)|Total (mts)|
+|-|-|-|-|
+|Rack (Switch a Patch Panel)|0,5|119|59,5|
+|Puesto (Roseta a PC/AP)|3|119|357|
+|TOTAL LATIGUILLOS||238|416,5|
 
 Por otro lado se ha hecho una estimación de los latiguillos que conectan
 el switch con el panel de conexión y la conexión final de la roseta al
 equipo final.
 
-  --------------------------------
-       **RJ45**       
-  ------------------- ------------
-  **Metros en Total**   3168,11634
-
-  **Cables en Total**          357
-
-    **Conectores en            714
-        Total**       
-  --------------------------------
-
-  -------------------------------
-   **Fibra Óptica**   
-  ------------------- -----------
-  **Metros en Total**   25,783784
-
-  -------------------------------
+||RJ45|Fibra Óptica|
+|-|-|-|
+|Metros en Total|3168|25|
+|Cables en Total|357||
+|Conectores en Total|714||
 
 En total tenemos 3168 metros de cable, (unas 11 bobinas de 305 metros),
 357 cables en total y en fibra óptica tan solo 25 metros al solo haber
@@ -771,160 +589,313 @@ siguiente nomenclatura*:
 
 Por ejemplo:
 
-Origen Destino
-
-P1-HC1-P1 P1-OF1-R1
-
-P1-HC1-SW2-P1 P1-AP-1
+|Origen|Destino|
+|-|-|
+|P1-HC1-P1|P1-OF1-R1|
+|P1-HC1-SW2|P1 P1-AP-1|
 
 # Inventario de rosetas y Puntos De Red
 
-+-------------------------+------------+------------+------------+---+
-| Espacio                 | simples    | dobles     | cuadruples |   |
-|                         |            |            |            +---+
-|                         |            |            |            |   |
-+:==========:+:==========:+:==========:+:==========:+:==========:+:==+
-| Planta 1                                                       |   |
-+-------------------------+------------+------------+------------+---+
-| Oficinas                | 30         |            |            |   |
-+-------------------------+------------+------------+------------+---+
-| Recepción               |            | 1          | 1          |   |
-+-------------------------+------------+------------+------------+---+
-| Sala de descanso        |            |            | 1          |   |
-+-------------------------+------------+------------+------------+---+
-| Sala de Conferencias    |            |            | 1          |   |
-+-------------------------+------------+------------+------------+---+
-| **Subtotal de Rosetas** | 34                                   |   |
-+-------------------------+--------------------------------------+---+
-| Planta 2                                                       |   |
-+-------------------------+------------+------------+------------+---+
-| Oficinas                | 46         |            |            |   |
-+-------------------------+------------+------------+------------+---+
-| Librería                |            | 1          | 1          |   |
-+-------------------------+------------+------------+------------+---+
-| Sala de Copiado         | 2          |            | 1          |   |
-+-------------------------+------------+------------+------------+---+
-| Area de Coworking       |            |            | 2          |   |
-+-------------------------+------------+------------+------------+---+
-| **Subtotal de Rosetas** | 53                                   |   |
-+------------+------------+------------+------------+------------+---+
-|            |            |            |            |            |   |
-+------------+------------+------------+------------+------------+---+
-| **Total por Tipo**      | 78         | 2          | 7          |   |
-+-------------------------+------------+------------+------------+---+
-| **Total de Rosetas**    | 87                                   |   |
-+-------------------------+--------------------------------------+---+
+<style>
 
-+------------------+-----------+-----------+---+
-| Puertos          | Planta 1  | Planta 2  |   |
-|                  |           |           +---+
-|                  |           |           |   |
-+:================:+:=========:+:=========:+:==+
-| Rosetas          | 44        | 66        |   |
-+------------------+-----------+-----------+---+
-| Access Points    | 3         | 3         |   |
-| (APs)            |           |           |   |
-+------------------+-----------+-----------+---+
-| Cámaras de       | 3         |           |   |
-| Vigilancia       |           |           |   |
-+------------------+-----------+-----------+---+
-| **Subtotal**     | 50        | 69        |   |
-+------------------+-----------+-----------+---+
-| **Total**        | 119                   |   |
-+------------------+-----------------------+---+
+.tabla-rosetas {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+}
 
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Dispositivos                | Físicos      | Usados       | Activos      | Libres       |  |
-|                             |              |              |              |              +--+
-|                             |              |              |              |              |  |
-+:============:+:============:+:============:+:============:+:============:+:============:+:=+
-| Planta 1                                                                                |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Switch 1                    | 48           | 44           | 16           | 4            |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Switch 2 (PoE)              | 16           | 6            | 6            | 10           |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| **Subtotal**                | 64           | 50           | 22           | 14           |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Planta 2                                                                                |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Switch 1                    | 48           | 46           | 23           | 2            |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Switch 2 (PoE)              | 16           | 3            | 3            | 13           |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| Switch 3                    | 48           | 20           | 10           | 28           |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| **Subtotal**                | 112          | 69           | 36           | 43           |  |
-+--------------+--------------+--------------+--------------+--------------+--------------+--+
-|              |              |              |              |              |              |  |
-+--------------+--------------+--------------+--------------+--------------+--------------+--+
-| **Total**                   | 176          | 119          | 58           | 57           |  |
-+-----------------------------+--------------+--------------+--------------+--------------+--+
-| **Porcentaje (%) de escalabilidad**                       | 49,6                        |  |
-+-----------------------------------------------------------+-----------------------------+--+
+.tabla-rosetas th, .tabla-rosetas td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
 
-[Enlace al Inventario de Tomas de
-datos](Presupuesto/Puntos%20de%20red.xlsx)
+.tabla-rosetas thead {
+  background-color: #f4f4f4;
+}
 
-[]{#_Toc218710190 .anchor}
+.header-planta {
+  background-color: #e9e9e9;
+  text-align: left;
+}
+
+.tabla-rosetas tfoot {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+</style>
+
+<table class="tabla-rosetas">
+  <thead>
+    <tr>
+      <th>Espacio</th>
+      <th>Simples</th>
+      <th>Dobles</th>
+      <th>Cuadruples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Planta 1 -->
+    <tr><th colspan="4" class="header-planta">Planta 1</th></tr>
+    <tr><td>Oficinas</td><td>30</td><td></td><td></td></tr>
+    <tr><td>Recepción</td><td></td><td>1</td><td>1</td></tr>
+    <tr><td>Sala de descanso</td><td></td><td></td><td>1</td></tr>
+    <tr><td>Sala de Conferencias</td><td></td><td></td><td>1</td></tr>
+    <tr><th colspan="2">Subtotal de Rosetas</th><th colspan="2">34</th></tr>
+    
+    
+
+  <tr><th colspan="4" class="header-planta">Planta 2</th></tr>
+    <tr><td>Oficinas</td><td>46</td><td></td><td></td></tr>
+    <tr><td>Librería</td><td></td><td>1</td><td>1</td></tr>
+    <tr><td>Sala de Copiado</td><td>2</td><td></td><td>1</td></tr>
+    <tr><td>Area de Coworking</td><td></td><td></td><td>2</td></tr>
+    <tr><th colspan="2">Subtotal de Rosetas</th><th colspan="2">53</th></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th>Total por Tipo</th>
+      <td>78</td>
+      <td>2</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <th colspan="2">Total de Rosetas</th>
+      <th colspan="2">87</th>
+    </tr>
+  </tfoot>
+</table>
+
+<style>
+    .tabla-redes {
+        width: 100%;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+    }
+    .tabla-redes th, .tabla-redes td {
+        border: 1px solid #444;
+        padding: 8px;
+        text-align: center;
+    }
+    .cabecera-planta {
+        background-color: #556b2f; /* Verde oliva */
+        color: white;
+        font-weight: bold;
+    }
+    .subtotal-fila {
+        background-color: #333;
+        color: white;
+        font-weight: bold;
+    }
+</style>
+
+<table class="tabla-redes">
+    <thead>
+        <tr>
+            <th>Dispositivos</th>
+            <th>Físicos</th>
+            <th>Usados</th>
+            <th>Activos</th>
+            <th>Libres</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="cabecera-planta">
+            <td colspan="5">Planta 1</td>
+        </tr>
+        <tr>
+            <td>Switch 1</td>
+            <td>48</td>
+            <td>44</td>
+            <td>16</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Switch 2 (PoE)</td>
+            <td>16</td>
+            <td>6</td>
+            <td>6</td>
+            <td>10</td>
+        </tr>
+        <tr class="subtotal-fila">
+            <td>Subtotal</td>
+            <td>64</td>
+            <td>50</td>
+            <td>22</td>
+            <td>14</td>
+        </tr>
+        <tr class="cabecera-planta">
+            <td colspan="5">Planta 2</td>
+        </tr>
+        <tr>
+            <td>Switch 1</td>
+            <td>48</td>
+            <td>46</td>
+            <td>23</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Switch 2 (PoE)</td>
+            <td>16</td>
+            <td>3</td>
+            <td>3</td>
+            <td>13</td>
+        </tr>
+        <tr>
+            <td>Switch 3</td>
+            <td>48</td>
+            <td>20</td>
+            <td>10</td>
+            <td>28</td>
+        </tr>
+        <tr class="subtotal-fila">
+            <td>Subtotal</td>
+            <td>112</td>
+            <td>69</td>
+            <td>36</td>
+            <td>43</td>
+        </tr>
+        <tr class="subtotal-fila">
+            <td>Total</td>
+            <td>176</td>
+            <td>119</td>
+            <td>58</td>
+            <td>57</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="font-weight: bold; text-align: right;">Porcentaje (%) de escalabilidad</td>
+            <td>49,6</td>
+        </tr>
+    </tbody>
+</table>
+
+[Enlace al Inventario de Tomas de datos](Presupuesto/Puntos%20de%20red.xlsx)
 
 # Presupuesto
 
 ## Del Contratista
 
-+-----------------------------------------------------------------------------------------------+
-| Resumen                                                                                       |
-+:=========:+:=========:+:=========:+:=========:+:=========:+:=========:+:=========:+:=========:+
-| Subsistema de cableado horizontal                         | 7406,23                           |
-+-----------------------------------------------------------+-----------------------------------+
-| Subsistema de cableado vertical                           | 311,38 €                          |
-+-----------------------------------------------------------+-----------------------------------+
-| Racks Planta 1 y 2                                        | 5.092,56 €                        |
-+-----------------------------------------------------------+-----------------------------------+
-| Mano de Obra                                              | 10.128,00 €                       |
-+-----------------------------------------------------------+-----------------------------------+
-| Certificación                                             | 858,00 €                          |
-+-----------------------------------------------------------+-----------------------------------+
-| **Total (Sin IVA)**                                       | **23796,17**                      |
-+-----------------------------------------------------------+-----------------------------------+
-| **Total (Con IVA)**                                       | **28793,37**                      |
-+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           |           |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
-| Beneficios Estimados                                                                          |
-+-----------------------------------------------------------+-----------------------------------+
-| Ingreso total (PVP Cliente)                               | 37822,39                          |
-+-----------------------------------------------------------+-----------------------------------+
-| Costes directos                                           | -28.793,37 €                      |
-+-----------------------------------------------------------+-----------------------------------+
-| Amortización de herramientas                              | -300 €                            |
-+-----------------------------------------------------------+-----------------------------------+
-| **Beneficio neto estimado**                               | **8.729,02 €**                    |
-+-----------------------------------------------------------+-----------------------------------+
-| **Margen de ganancia (%)**                                | **23,1**                          |
-+-----------------------------------------------------------+-----------------------------------+
+<table class="tabla-resumen">
+  <thead>
+    <tr>
+      <th>Resumen</th>
+      <th>Importe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Subsistema de cableado horizontal</td>
+      <td>7.406,23 €</td>
+    </tr>
+    <tr>
+      <td>Subsistema de cableado vertical</td>
+      <td>311,38 €</td>
+    </tr>
+    <tr>
+      <td>Racks Planta 1 y 2</td>
+      <td>5.092,56 €</td>
+    </tr>
+    <tr>
+      <td>Mano de Obra</td>
+      <td>10.128,00 €</td>
+    </tr>
+    <tr>
+      <td>Certificación</td>
+      <td>858,00 €</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr class="total-sin">
+      <td>Total (Sin IVA)</td>
+      <td>23.796,17 €</td>
+    </tr>
+    <tr class="total-con">
+      <td>Total (Con IVA)</td>
+      <td>28.793,37 €</td>
+    </tr>
+  </tfoot>
+</table>
+
+
+<table class="tabla-beneficios">
+  <thead>
+    <tr>
+      <th>Beneficios Estimados</th>
+      <th>Importe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ingreso total (PVP Cliente)</td>
+      <td>37.822,39 €</td>
+    </tr>
+    <tr>
+      <td>Costes directos</td>
+      <td class="negativo">-28.793,37 €</td>
+    </tr>
+    <tr>
+      <td>Amortización de herramientas</td>
+      <td class="negativo">-300,00 €</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr class="total-neto">
+      <td>Beneficio neto estimado</td>
+      <td>8.729,02 €</td>
+    </tr>
+    <tr class="margen">
+      <td>Margen de ganancia (%)</td>
+      <td>23,1 %</td>
+    </tr>
+  </tfoot>
+</table>
+
 
 ## Del Cliente
 
-+----------------------------------------------------------------------------+
-| Resumen                                                                    |
-+:==========================================:+:=============================:+
-| Subsistema de cableado horizontal          | 7406,23                       |
-+--------------------------------------------+-------------------------------+
-| Subsistema de cableado vertical            | 311,38 €                      |
-+--------------------------------------------+-------------------------------+
-| Racks Planta 1 y 2                         | 5.092,56 €                    |
-+--------------------------------------------+-------------------------------+
-| Mano de Obra                               | 16.720,00 €                   |
-+--------------------------------------------+-------------------------------+
-| Certificación                              | 1.728,00 €                    |
-+--------------------------------------------+-------------------------------+
-| **Total (Sin IVA)**                        | **31258,17**                  |
-+--------------------------------------------+-------------------------------+
-| **Total (Con IVA)**                        | **37822,39**                  |
-+--------------------------------------------+-------------------------------+
 
-[]{#_Toc218710191 .anchor}
+<table class="tabla-resumen-v3">
+  <thead>
+    <tr>
+      <th>Resumen</th>
+      <th>Importe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Subsistema de cableado horizontal</td>
+      <td>7.406,23 €</td>
+    </tr>
+    <tr>
+      <td>Subsistema de cableado vertical</td>
+      <td>311,38 €</td>
+    </tr>
+    <tr>
+      <td>Racks Planta 1 y 2</td>
+      <td>5.092,56 €</td>
+    </tr>
+    <tr>
+      <td>Mano de Obra</td>
+      <td>16.720,00 €</td>
+    </tr>
+    <tr>
+      <td>Certificación</td>
+      <td>1.728,00 €</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr class="total-sin">
+      <td>Total (Sin IVA)</td>
+      <td>31.258,17 €</td>
+    </tr>
+    <tr class="total-con">
+      <td>Total (Con IVA)</td>
+      <td>37.822,39 €</td>
+    </tr>
+  </tfoot>
+</table>
 
 # Contrato
 
