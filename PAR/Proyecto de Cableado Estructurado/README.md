@@ -13,7 +13,7 @@
 >
 > **PARP301:** Proyecto de Cableado Estructurado en una oficina de dos plantas
 
-# Contenido {#contenido .TOC-Heading}
+# Contenido
 
 - [Introducción](#introducción)
 
@@ -76,7 +76,7 @@ instalaciones a un edificio empresarial de varias plantas. Sin embargo,
 antes de migrar todo el mobiliario y sus trabajadores, es necesario
 cablear el edificio por lo que han solicitado nuestros servicios.
 
-<img src="Nueva carpeta/Abogados_España.jpg" alt="Texto alternativo" width="400">
+<img src="imágenes/Abogados_España.jpg" alt="Texto alternativo" width="400">
 
 ## El Contratista
 
@@ -87,13 +87,13 @@ Suarez,* nuestra firma nace como una startup en 2025 con la misión de
 transformar el cableado pasivo en un activo estratégico para las
 empresas que no pueden permitirse fallos de conexión.
 
-<img src="Nueva carpeta/CE Solutions.png/" alt="Texto alternativo" width="" height="">
+<img src="imágenes/CE Solutions.png/" alt="Texto alternativo" width="" height="">
 
 # PLANOS ORIGINALES
 
 ## Planta 1
 
-<img src="Nueva carpeta/Planta 1.jpg" alt="Texto alternativo" width="" height="">
+<img src="imágenes/Planta 1.jpg" alt="Texto alternativo" width="" height="">
 
 **Características:**
 
@@ -131,7 +131,7 @@ empresas que no pueden permitirse fallos de conexión.
 
 ## Planta 2
 
-<img src="Nueva carpeta/Planta 2.jpg" width="" height="">
+<img src="imágenes/Planta 2.jpg" width="" height="">
 
 **Características**:
 
@@ -246,7 +246,7 @@ Twisted* *Pair* que significa que no tiene una protección global pero
 sus pares de hilos están envueltos individualmente en una capa de
 aluminio.
 
-<img src="Nueva carpeta/CABLE UFTP CAT6.jpg" width="" height="">
+<img src="imágenes/CABLE UFTP CAT6.jpg" width="" height="">
 
 **Características**:
 
@@ -284,7 +284,7 @@ En nuestro caso vamos a estar utilizando Rejiband al no haber falso
 suelo ni poder atravesar los muros y estará situado oculto bajo techo
 por motivos estéticos y de organización.
 
-<img src="Nueva carpeta/rejiband.png" width="" height="">
+<img src="imágenes/rejiband.png" width="" height="">
 
 **Canalizaciones**: Canaletas 6x9 mm de 2 mts
 
@@ -293,7 +293,7 @@ mediante canaletas pegadas a la pared. Como hemos estimado serán
 necesarios 380 mts de canaletas por lo que hemos comprado 190 unidades
 de 2 mts
 
-<img src="Nueva carpeta/canalizaciones.jpg" width="" height="">
+<img src="imágenes/canalizaciones.jpg" width="" height="">
 
 **Rosetas**: Las rosetas son puntos de conexión en las áreas de trabajo
 que permiten la conexión de dispositivos finales al sistema de cableado
@@ -308,17 +308,17 @@ Rosetas empleadas: de CAT6 FTP
 - Rosetas simples: Admiten servicio de voz y datos. Se han instalado en
   puestos de trabajo individuales.
 
-<img src="Nueva carpeta/rosetas simples.jpg" width="" height="">
+<img src="imágenes/rosetas simples.jpg" width="" height="">
 
 - Rosetas dobles: Se han utilizado en espacios donde hay varios
   empleados.
 
-<img src="Nueva carpeta/rosetas dobles.jpg" width="" height="">
+<img src="imágenes/rosetas dobles.jpg" width="" height="">
 
 - Rosetas de 4 puertos: Se han utilizado en espacios compartidos donde
   hay 2 o más empleados y en salas de apoyo que cuentan con dispositivos (impresoras, escaners, fax, etc.)
 
-<img src="Nueva carpeta/rosetas de cuatro puertos.png" width="" height="">
+<img src="imágenes/rosetas de cuatro puertos.png" width="" height="">
 
 **Conectores**: Pack 100 Conectores RJ-45
 
@@ -327,7 +327,7 @@ latiguillos (patch cords) por lo que se han adquirido 3 unidades de
 conectores RJ-45 de categoría 6. Deben ser de tipo FTP para coincidir
 con el tipo de cableado que hemos empleado.
 
-<img src="Nueva carpeta/Pack conectores RJ-45.png" width="" height="">
+<img src="imágenes/Pack conectores RJ-45.png" width="" height="">
 
 **Punto de Acceso Wifi** (APs): Ubiquiti U7 Lite
 
@@ -336,7 +336,7 @@ despacho como la sala de recepción o la sala de conferencias para
 garantizar una buena conexión a las redes inalámbricas de abogados e
 invitados. Se conectarán al switch PoE en la primera planta.
 
-<img src="Nueva carpeta/Ubiquiti U7 Lite.jpg" width="" height="">
+<img src="imágenes/Ubiquiti U7 Lite.jpg" width="" height="">
 
 **Cámara para exteriores IP**: Reolink P320
 
@@ -345,15 +345,15 @@ despacho las cuales tienen una resolución de 2880 x 1620 píxeles, visión
 nocturna,110° FOV, al igual que los APs, se conectarán mediante cable
 Ethernet al switch PoE de 24 puertos en la primera planta.
 
-<img src="Nueva carpeta/Reolink P320.jpg" width="" height="">
+<img src="imágenes/Reolink P320.jpg" width="" height="">
 
 **Etiquetas y Bridas**
 
 Los cables se etiquetarán con un nombre identificativo y las bridas nos
 ayudarán a organizar los cables sobre el Rejiband
 
-<img src="Nueva carpeta/Etiquetas.jpg" height="200px">
-<img src="Nueva carpeta/Bridas.png" height="200px">
+<img src="imágenes/Etiquetas.jpg" height="200px">
+<img src="imágenes/Bridas.png" height="200px">
 
 ## Subsistema de Cableado Vertical
 
@@ -375,15 +375,15 @@ Se ha optado por fibra óptica de 6 hilos (3 pares) de los cuales:
 - Emplearemos 2 pares de reserva en caso de futuras expansiones o
   reparaciones en caso de rotura.
 
-<img src="Nueva carpeta/Fibra Óptica.jpg" width="" height="">
+<img src="imágenes/Fibra Óptica.jpg" width="" height="">
 
 **Conectores:** LC Multimodo OM4 (Little Conector)
 
-<img src="Nueva carpeta/LC Multimodo OM4.jpg" width="" height="">
+<img src="imágenes/LC Multimodo OM4.jpg" width="" height="">
 
 **Transceptor de Fibra:** SFP-10G-SR300m
 
-<img src="Nueva carpeta/Transceptor de Fibra.png" width="250" height="">
+<img src="imágenes/Transceptor de Fibra.png" width="250" height="">
 
 Es un módulo óptico enchufable que permite transmitir datos a 10
 Gigabits por segundo hasta 300 metros usando fibra multimodo (MMF),
@@ -394,11 +394,11 @@ equipos de red como switches y routers.
 
 Rack 1:
 
-<img src="Nueva carpeta/Rack1.png" width="" height="">
+<img src="imágenes/Rack1.png" width="" height="">
 
 Rack 2:
 
-<img src="Nueva carpeta/Rack2.png" width="" height="">
+<img src="imágenes/Rack2.png" width="" height="">
 
 
 ## Elementos del Rack de la Planta 1 y 2
@@ -408,7 +408,7 @@ Rack 2:
 Los racks son estructuras diseñadas para montar y organizar equipos
 electrónicos en un sistema de cableado estructurado.
 
-<img src="Nueva carpeta/Armario de 18U.jpg" width="" height="">
+<img src="imágenes/Armario de 18U.jpg" width="" height="">
 
 
 Los dispositivos de red que alberga el rack incluyen:
@@ -422,7 +422,7 @@ acceso, distribución o núcleo, dependiendo de su ubicación en la red.
 Los switches se montan típicamente en un rack para facilitar la gestión
 del cableado y el acceso para el mantenimiento.
 
-<img src="Nueva carpeta/Switch TP-Link.png" width="" height="">
+<img src="imágenes/Switch TP-Link.png" width="" height="">
 
 
 **Routers**: Fortinet FG-60F-EU
@@ -431,7 +431,7 @@ Los routers se utilizan para enrutar el tráfico entre redes. En un
 entorno de cableado estructurado, los routers pueden montarse en racks
 para facilitar su acceso y mantenimiento.
 
-<img src="Nueva carpeta/Fortinet FG-60F-EU.png" width="" height="">
+<img src="imágenes/Fortinet FG-60F-EU.png" width="" height="">
 
 
 **Patch Panels (Paneles de Conexión)**
@@ -441,7 +441,7 @@ los cables de red, son comúnmente montados en racks. Esto facilita la
 gestión del cableado y la conexión ordenada de cables desde las áreas de
 trabajo hacia los dispositivos de red.
 
-<img src="Nueva carpeta/Patch Panels.png" width="" height="">
+<img src="imágenes/Patch Panels.png" width="" height="">
 
 
 **Equipos de Energía (PDU)**:
@@ -450,19 +450,19 @@ Los racks a menudo incluyen unidades de distribución de energía (PDU,
 por sus siglas en inglés) para gestionar y distribuir la energía
 eléctrica de manera eficiente a los dispositivos conectados en el rack.
 
-<img src="Nueva carpeta/Equipos de Energía.png" width="" height="">
+<img src="imágenes/Equipos de Energía.png" width="" height="">
 
 
 # Planos posteriores
 
 ## Planta 1
 
-<img src="Nueva carpeta/Planta 1 Posterior.jpg" width="" height="">
+<img src="imágenes/Planta 1 Posterior.jpg" width="" height="">
 
 
 ## Planta 2
 
-<img src="Nueva carpeta/Planta 2 Posterior.jpg" width="" height="">
+<img src="imágenes/Planta 2 Posterior.jpg" width="" height="">
 
 
 
@@ -480,7 +480,7 @@ Los racks de cada planta se interconectan entre sí mediante enlaces de
 fibra óptica. Esta topología facilita el mantenimiento, la localización
 de averías y la ampliación futura de la red.
 
-<img src="Nueva carpeta/Topología de Red.png" width="" height="">
+<img src="imágenes/Topología de Red.png" width="" height="">
 
 # Subsistemas De Red
 
@@ -515,22 +515,22 @@ canaletas o subsuelos.
 Incluye las tomas de red y dispositivos finales en las áreas de trabajo,
 como escritorios y puestos de trabajo.
 
-<img src="Nueva carpeta/Area de trabajo.jpg" width="" height="">
+<img src="imágenes/Area de trabajo.jpg" width="" height="">
 
 # Cronograma / Diagrama de Gantt
 
-<img src="Nueva carpeta/Cronograma Diagrama de Gantt.png" width="" height="">
+<img src="imágenes/Cronograma Diagrama de Gantt.png" width="" height="">
 
 El proyecto dará a inicio el 2 de enero del 2026 y tendrá una duración
 de 21 laborales hasta el día 2 de febrero del 2026 y tendrá un plazo
 máximo de 30 días laborales, es decir hasta el 17 de febrero
 
-<img src="Nueva carpeta/Diagrama de Gantt.png" width="" height="">
+<img src="imágenes/Diagrama de Gantt.png" width="" height="">
 
 
 Los días feriados ni los fines de semana contarán para la realización de las obras.
 
-<img src="Nueva carpeta/Dias feriados.png" width="" height="">
+<img src="imágenes/Dias feriados.png" width="" height="">
 
 Los días laborales se representan en azul.
 
