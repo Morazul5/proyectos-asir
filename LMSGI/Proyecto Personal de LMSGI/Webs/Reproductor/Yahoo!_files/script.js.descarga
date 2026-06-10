@@ -1,0 +1,62 @@
+function onFrameLinkClick(e) {
+  e.preventDefault();
+  window.top.postMessage(
+    {
+      id: window.siteId,
+      isNav: true,
+      url: e.currentTarget.href,
+      title: document.title,
+    },
+    "*"
+  );
+  return false;
+}
+
+window.addEventListener("message", function (e) {
+  if (e.data.scroll) {
+    if (e.data.percent) {
+      window.scrollTo(
+        0,
+        (e.data.scroll / 100) *
+          (document.documentElement.scrollHeight - window.innerHeight)
+      );
+    } else {
+      window.scrollBy(0, e.data.scroll);
+    }
+  }
+});
+
+window.addEventListener("load", (event) => {
+  window.top.postMessage(
+    {
+      id: window.siteId,
+      scrollRatio: window.innerHeight / document.documentElement.scrollHeight,
+      url: document.getElementById("base-url").content,
+    },
+    "*"
+  );
+
+  window.top.postMessage(
+    {
+      id: window.siteId,
+      isScroll: true,
+      scrollPercent: 0,
+    },
+    "*"
+  );
+});
+
+window.addEventListener("scroll", (event) => {
+  window.top.postMessage(
+    {
+      id: window.siteId,
+      isScroll: true,
+      scrollPercent:
+        (window.scrollY /
+          (document.documentElement.scrollHeight - window.innerHeight)) *
+        100,
+    },
+    "*"
+  );
+});
+

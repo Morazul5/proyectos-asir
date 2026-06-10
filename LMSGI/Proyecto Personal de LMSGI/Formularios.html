@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Historia de la informática - Formulario</title>
+		<meta charset="UTF-8"/>
+		<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">		
+	</head>
+	<body>
+		<table style="margin: 0 auto;width:100%;">
+		
+		<thead>
+			<tr>
+				<td style="border:solid 1px #011D3C" colspan="4">
+			<center><pre style="background-color:black;color:green">
+			
+| | | (_)   | |           (_)           | |      | |       |_   _|     / _|                         | | (_)           
+| |_| |_ ___| |_ ___  _ __ _  __ _    __| | ___  | | __ _    | | _ __ | |_ ___  _ __ _ __ ___   __ _| |_ _  ___ __ _  
+|  _  | / __| __/ _ \| '__| |/ _` |  / _` |/ _ \ | |/ _` |   | || '_ \|  _/ _ \| '__| '_ ` _ \ / _` | __| |/ __/ _` | 
+| | | | \__ \ || (_) | |  | | (_| | | (_| |  __/ | | (_| |  _| || | | | || (_) | |  | | | | | | (_| | |_| | (_| (_| | 
+\_| |_/_|___/\__\___/|_|  |_|\__,_|  \__,_|\___| |_|\__,_|  \___/_| |_|_| \___/|_|  |_| |_| |_|\__,_|\__|_|\___\__,_|
+			</pre></center>
+				</td>
+			</tr>
+			<tr>
+				<td style="border:solid 1px #011D3C;background-color:black;text-align:center;" colspan="4">
+					<h1 style="font-family:VT323,monospace;color:black;"><span style="background-color:#008000;">FORMULARIO DE REGISTRO</span></h1>
+				</td>
+			</tr>
+			
+			<tr>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+				<p><a href="Generaciones de Ordenadores.html" style="color:green">GENERACIONES DE ORDENADORES</a> </p>
+				</td>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+				<p><a href="Cronología de la Informática.html" style="color:green">CRONOLOGÍA DE LA INFORMÁTICA</a> </p>
+				</td>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+				<p><a href="Ramas de la Informática.html" style="color:green">RAMAS DE LA INFORMÁTICA</a> </p>
+				</td>
+			</tr>
+			
+			<tr>			
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+				<p><a href="Informáticos Ilustres.html" style="color:green">INFORMÁTICOS ILUSTRES</a></p>
+				</td>				
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+					<p><a href="Museo del Internet.html" style="color:green">MUSEO DEL INTERNET</a></p>
+				</td>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+					<p><a href="Recursos Educativos.html" style="color:green">RECURSOS EDUCATIVOS</a> </p>
+				</td>					
+			</tr>
+			
+			<tr>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;">
+					<p><a href="Trivia.html" style="color:green">TRIVIA</a></p>
+				</td>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"> 
+					<p><a href="Formularios.html" style="color:green">UNETE A NOSOTROS</a></p>
+				</td>
+				<td style="border:solid 1px #011D3C;background-color:#333333;text-decoration:underline;text-align:center;"></td>				
+			</tr>
+
+		</thead>	
+			
+		<tbody>	
+			<tr style="background-color:#0437F2;">
+				<td colspan="4" style="width:595px;border:solid 1px #0B1D3E;">
+				<!---->
+				
+					<h2 style="text-align:center;color:black;">Formulario de Registro</h2>
+					<h2 style="text-align:center;color:yellow;font-family:VT323">Sociedad de Historiadores Informáticos</h2>
+					<p style="color:red;text-align:center;">Aviso: Actualmente este registro es solo valido para España</p>
+				<form action="mailto:historiadelainformatica@gmail.com" method="POST" enctype="multipart/form-data" >
+				
+						<legend style="text-align:center;color:white;">Datos Personales</legend>
+						<fieldset style="margin-left:20%;margin-right:20%;">
+							<center><table style="background-color:#6495ED;">
+								<tr>
+									<td>
+										<p>
+										<label for="nombre">Nombre</label>
+										<input type="text" name="nombre" id="nombre">
+				
+										<label for="apellidos">Apellidos</label>
+										<input type="text" name="apellidos" id="apellidos">
+										
+										<label for="dni">DNI:</label>
+										<input name="dni" placeholder="P.E A0000000B" title="Escriba su DNI" type="text" id="dni" minlength="9" maxlength="9"/>
+										</p>
+									</td>	
+								</tr>
+								
+								<tr>		
+									<td>
+										<p>
+										<label for="file">Documentos Adjuntos:</label>
+										<input type="file" name="Documentos" id="file">	
+										</p>
+									</td>									
+								</tr>
+								
+								<tr>		
+									<td>
+										<p>
+										<label for="user">Usuario:</label>
+										<input type="text" name="usuario" id="user">	
+										<label for="pass">Contraseña:</label>
+										<input type="password" name="contraseña" id="pass" pattern="^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$ %^&*-]).{8,}$">										
+										</p>
+									</td>									
+								</tr>
+								
+								<tr>								
+									<td>
+										<p>
+										<label>Correo Electronico:</label>	
+										<input type="email" name="dir_email" pattern="[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+">
+
+										<label>Teléfono:</label>
+										<input type="text" name="tlf" id="t" size="12" minlength="9" placeholder="+34 123456789" pattern="^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$">
+										</p>
+									</td>									
+								</tr>								
+
+								<tr>
+									<td>
+										<p>
+										<label for="dt">Fecha de nacimiento:</label>
+										<input type="date" id="dt"/>
+				
+										<label>País de Nacimiento:</label>
+										<select name="país">
+											<option value="España" selected="true">España</option>
+											<option value="Hispanoamerica" disabled="true">Hispanoamerica (Proximamente)</option>
+										</select>
+										</p>
+									</td>
+								</tr>										
+
+								<tr>								
+									<td>
+										<p>
+										<label>Comunidad Autonoma:</label>
+										<select name="Comunidad">
+											<optgroup label="Andalucía">
+											<option value="Sevilla">Sevilla</option>
+											<optgroup label="Aragón">
+											<option value="Zaragoza">Zaragoza</option>
+											<optgroup label="Asturias">
+											<option value="Oviedo">Oviedo</option>
+											<optgroup label="Islas Baleares">
+											<option value="Palma">Palma</option>
+											<optgroup label="Canarias">
+											<option value="Santa Cruz de Tenerife">Santa Cruz de Tenerife</option>
+											<option value="Gran Canaria">Gran Canaria</option>
+											<optgroup label="Cantabria">
+											<option value="Santander">Santander</option>
+											<optgroup label="Castilla-La Mancha">
+											<option value="Toledo">Toledo</option>
+											<optgroup label="Castilla y León">
+											<option value="Valladolid">Valladolid</option>
+											<optgroup label="Cataluña">
+											<option value="Barcelona">Barcelona</option>
+											<optgroup label="Valenciana">
+											<option value="Valencia">Valencia</option>
+											<optgroup label="Extremadura">
+											<option value="Mérida">Mérida</option>
+											<optgroup label="Galicia">
+											<option value="Santiago de Compostela">Santiago de Compostela</option>
+											<optgroup label="Comunidad de Madrid">
+											<option value="Madrid">Madrid</option>
+											<optgroup label="Murcia">
+											<option value="Murcia">Murcia</option>
+											<optgroup label="Navarra">
+											<option value="Pamplona">Pamplona</option>
+											<optgroup label="País Vasco">
+											<option value="Vitoria-Gasteiz">Vitoria-Gasteiz</option>							
+											<optgroup label="La Rioja">
+											<option value="Logroño">Logroño</option>
+										</select>
+										</p>
+									</td>
+								</tr>
+								
+								<tr>				
+									<td>
+									<p>
+										<label>Genero:</label>
+											<label for="msc"><img src="Imágenes/Formulario/Hombre.png" style="width:100px;"/></label>
+											<input type="radio" name="genero" id="msc"/>
+											
+											<label for="fmn"><img src="Imágenes/Formulario/Mujer.png" style="width:100px;"/></label>
+											<input type="radio" name="genero" id="fmn"/>
+									</p>		
+							
+									</td>
+								</tr>
+								
+							
+								<tr>				
+									<td>
+										<p>
+										<label for="fd">¿Acepta <a href="Documentos/Formulario/tyc.pdf" target="_blank">nuestros terminos y condiciones</a>?</label><input type="checkbox" name="tyc" id="tyc" value="tyc" required/>
+										</p>	
+									</td>
+								</tr>	
+
+
+								<tr>
+									<td>
+									<fieldset></br>
+									<legend>Intereses</legend>
+									<label for="CC">Ciencias de la Computación</label><input id="CC" name="Ciencias de la Computación" type="checkbox" />
+									<label for="DD"></label>Desarrollo de Software<input id="DD" name="Desarrollo de Software" type="checkbox" />
+									<label for="RC">Redes y Comunicaciones</label><input id="RC" name="Redes y Comunicaciones" type="checkbox" />
+									<label for="CS"></label>Ciberseguridad<input id="CS" name="Ciberseguridad" type="checkbox" />
+									<label for="IA"></label>Inteligencia Artificial <input id="IA" name="Inteligencia Artificial " type="checkbox" />
+									<label for="BBDD"></label>Bases de Datos<input id="BBDD" name="Bases de Datos" type="checkbox" />
+									<label for="CN"></label>Computación en la Nube<input id="CN" name="Computación en la Nube" type="checkbox" />
+									<label for="SO">Sistemas Operativos</label><input id="SO" name="Sistemas Operativos" type="checkbox" />
+									<label for="RT">Robótica</label><input id="RT" name="Robótica" type="checkbox" />
+									<label for="CD">Ciencia de Datos</label><input id="CD" name="Ciencia de Datos" type="checkbox" />
+									<label for="Iot">IoT</label><input id="Iot" name="IoT" type="checkbox" />
+									<label for="AC">Arquitectura de Computadoras</label><input id="AC" name="Arquitectura de Computadoras" type="checkbox" />
+									<label for="QC">Computación Cuántica</label><input id="QC" name="Computación Cuántica" type="checkbox" />
+									</fieldset></br>
+									</td>
+								</tr>
+
+								<tr>
+									<td>
+									
+									<fieldset>
+									<legend for="desc">Descripción de la Solicitud</legend>
+									<center><textarea id="desc" rows="10px" cols="95%"></textarea></center>
+									</fieldset>
+
+									
+									</td>
+								</tr>
+
+								<tr>				
+									<td>
+										<p style="text-align:center;">
+										<input type="reset" name="reiniciar formulario" value="Borrar Formulario"/> 
+
+										<input type="submit" name="enviar" value="Enviar Formulario">
+										</p>
+									</td>
+								</tr>
+
+								<tr>				
+									<td>
+										<p style="text-align:center;">
+										<input type="image" name="botonenviar" src="Imágenes/Formulario/submit.png" height="30px"/>
+										</p>										
+									</td>
+								</tr>
+							</fieldset>	
+							</table></center>
+
+	
+								
+								
+				</form>
+				
+				<!---->
+				</td>
+			</tr>	
+				
+			</tbody>	
+				
+			<tfoot>	
+				<tr>			
+					<td colspan="4" style="background-color:black;color:white;">		
+						
+												
+						<p style="text-align:right;font-style:italic;">
+						Proyecto de HTML y CSS Inline - Fase 4<br/>
+						Número de Lista: 14<br/>
+						Módulo: LMSGI<br/>
+						Colegio Tajamar<br/>
+						&reg; Hecho por Pablo Mora <br>
+						<a href="mailto:pabloandresmorasuarez@alumnos.tajamar.es">pabloandresmorasuarez@alumnos.tajamar.es</a>
+						</p>
+						
+						
+						
+					</td>
+				</tr>
+			</tfoot>	
+				
+			</tr>				
+		</table>
+	</body>
+</html>

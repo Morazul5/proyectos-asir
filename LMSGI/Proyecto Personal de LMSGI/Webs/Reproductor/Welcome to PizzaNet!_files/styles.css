@@ -1,0 +1,82 @@
+html,
+body {
+  overscroll-behavior: none;
+  touch-action: pan-x pan-y;
+  scrollbar-width: none;
+}
+
+input,
+textarea {
+  unset: all;
+  border-top: 1px solid #666666;
+  border-left: 1px solid #666666;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  outline: none;
+  border-radius: 0px;
+  appearance: none;
+}
+
+select {
+  appearance: none;
+  color: black;
+  background: white;
+  border: 1px solid black;
+  border-radius: 0px;
+}
+
+input[type="submit"] {
+  background-color: #e0e0e0;
+  border: 1px solid #666666;
+  box-shadow: inset 1px 1px 1px white;
+  border-radius: 0px;
+  color: black;
+}
+
+input[type="IMAGE"] {
+  border: none;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  background: #dedee0;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #bebebe;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid #e1e1e1;
+  border-top: 1px solid #e1e1e1;
+}
+
+img {
+  clip-path: polygon(0 0, 100% 0, 100% 0%, 0 0%);
+  animation: revealImage 0.45s linear forwards 0.4s;
+}
+
+@keyframes revealImage {
+  10% {
+    clip-path: polygon(0 0, 100% 0, 100% 10%, 0 10%);
+  }
+  30% {
+    clip-path: polygon(0 0, 100% 0, 100% 20%, 0 20%);
+  }
+  50% {
+    clip-path: polygon(0 0, 100% 0, 100% 40%, 0 40%);
+  }
+  70% {
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
+  }
+  80% {
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 70%);
+  }
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+

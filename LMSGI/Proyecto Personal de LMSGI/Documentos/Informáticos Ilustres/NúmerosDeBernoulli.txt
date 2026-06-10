@@ -1,0 +1,3 @@
+¿Qué son? 
+
+Son números racionales (fracciones) que forman una secuencia. Se definen a partir de los Polinomios de Bernoulli o mediante una función generatriz. 
