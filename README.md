@@ -30,7 +30,7 @@ Estos son algunos de los proyectos que he realizado durante el ciclo formativo d
 ### 📁 [LMSGI] Lenguajes de Marcas y Sistemas de Gestión de Información
 *Creación de documentos web, sindicación de contenidos y almacenamiento de información.*
 * 📄 **Prácticas destacadas:**
-  * [Diseño de páginas web con HTML5 y hojas de estilo CSS3.](LMSGI/Proyecto%20Personal%20de%20LMSGI/index.html)
+  * Diseño de páginas web con HTML5 y hojas de estilo CSS3.
   * Validación y transformación de datos con XML, DTD, XSD y XPath.
   * Configuración y despliegue de un CMS (WordPress / Moodle).
 
