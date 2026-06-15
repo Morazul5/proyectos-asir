@@ -28,9 +28,9 @@ Estos son algunos de los proyectos que he realizado durante el ciclo formativo d
 *Creación de documentos web, sindicación de contenidos y almacenamiento de información.*
 * 📄 **Prácticas destacadas:**
   * [Proyecto Personal de LMSGI](LMSGI/Proyecto%20Personal%20de%20LMSGI/)
-  * [Proyecto Personal de LMSGI](LMSGI/Historia%20del%20Videojuego%20Doom/)
+  * [Historia del Videojuego Doom](LMSGI/Historia%20del%20Videojuego%20Doom/)
 ### 📁 [FH] Fundamentos de Hardware
 *Componentes físicos, montaje, diagnóstico de averías y virtualización.*
 * 🔌 **Prácticas destacadas:**
   * [COMPONENTES DE UN ORDENADOR](FH/COMPONENTES%20DE%20UN%20ORDENADOR/)
-  * [COMPONENTES DE UN ORDENADOR](FH/DISPOSITIVOS%20DE%20ALMACENAMIENTO/)  
+  * [DISPOSITIVOS DE ALMACENAMIENTO](FH/DISPOSITIVOS%20DE%20ALMACENAMIENTO/)  
