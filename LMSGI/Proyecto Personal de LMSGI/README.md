@@ -1,2 +1,2 @@
 # proyecto-lmsgi
-https://morazul5.github.io/proyecto-lmsgi/
+[proyecto-lmsgi](https://github.com/Morazul5/proyecto-html)
