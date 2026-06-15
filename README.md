@@ -9,9 +9,8 @@ Estos son algunos de los proyectos que he realizado durante el ciclo formativo d
 ### 📁 [ISO] Implantación de Sistemas Operativos
 *Configuración, administración y mantenimiento de sistemas Windows y Linux.*
 * 💻 **Prácticas destacadas:**
-  * Automatización de tareas con Bash (Linux) y PowerShell (Windows).
-  * Gestión de usuarios, grupos y permisos avanzados (ACLs).
-  * Instalación de servidores en modo CLI (Ubuntu Server / Windows Server).
+  * [Configuración de Arranque Dual](ISO/Configuración%20de%20Arranque%20Dual/)
+  * [Preparación de Discos](ISO/Preparación%20de%20Discos/)
 
 ### 📁 [PAR] Planificación y Administración de Redes
 *Diseño de topologías de red, direccionamiento IP y configuración de dispositivos.*
