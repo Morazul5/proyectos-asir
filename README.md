@@ -32,5 +32,5 @@ Estos son algunos de los proyectos que he realizado durante el ciclo formativo d
 ### 📁 [FH] Fundamentos de Hardware
 *Componentes físicos, montaje, diagnóstico de averías y virtualización.*
 * 🔌 **Prácticas destacadas:**
-  * [COMPONENTES DE UN ORDENADOR](FH/COMPONENTES%20DE%20UN%20ORDENADOR/)
-  * [DISPOSITIVOS DE ALMACENAMIENTO](FH/DISPOSITIVOS%20DE%20ALMACENAMIENTO/)  
+  * [Componentes de un ordenador](FH/COMPONENTES%20DE%20UN%20ORDENADOR/)
+  * [Dispositivos de almacenamiento](FH/DISPOSITIVOS%20DE%20ALMACENAMIENTO/)  
